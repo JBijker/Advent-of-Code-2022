@@ -19,7 +19,7 @@ std::string implode(std::vector<std::string> current_path) {
 }
 
 int main() {
-    std::cout << "Advent of Code DAY 6" << std::endl;
+    std::cout << "Advent of Code DAY 7" << std::endl;
 
     std::ifstream file("../input.txt");
     std::string line;
